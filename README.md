@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mwo-cas
+- 👋 Hi, I’m @mwo-cas...alias Michael
 - 👀 I’m interested in c# development and integration with edi and api
 
 <!---
